@@ -39,8 +39,11 @@ You can quickly play with Pipenv right in your browser:
 
 Installation
 ------------
+If you\'re on Windows:
 
-If you\'re on MacOS, you can install Pipenv easily with Homebrew:
+    $ pip install --user pipenv
+
+Or, if you\'re on MacOS, you can install Pipenv easily with Homebrew:
 
     $ brew install pipenv
 
